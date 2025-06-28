@@ -20,7 +20,8 @@ Use the `g++` compiler:
 ```bash
 g++ src/Filename.cpp -o bin/Filename.exe
 ./bin/Filename.exe
-example  
-<br>
+**Example:**
+
+```bash
 g++ src/FloydsTriangle.cpp -o bin/FloydsTriangle.exe
 ./bin/FloydsTriangle.exe
