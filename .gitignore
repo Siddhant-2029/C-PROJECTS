@@ -1,0 +1,9 @@
+# Ignore compiled files
+*.exe
+*.o
+*.obj
+*.out
+
+# Ignore build folders
+/bin/
+/build/
